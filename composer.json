@@ -1,14 +1,3 @@
 {
-    "name": "nader/last",
-    "authors": [
-        {
-            "name": "NaderDroid",
-            "email": "na511dr@hotmail.com"
-        }
-    ],
-    "require": {
-        },
-    "require-dev": {
-        "heroku/heroku-buildpack-php": "*"
-    }
+
 }
